@@ -1,0 +1,17 @@
+Archivo requirements.txt :
+
+Este archivo le dice a Python (y a cualquier servidor o entorno donde se ejecute el proyecto)
+
+cuáles librerías externas necesita para funcionar.
+
+¿Cómo se usa?
+
+1. Cuando el usuario descargue NEXUS, puede instalar todas las dependencias ejecutando:
+
+pip install -r requirements.txt
+
+2. Esto asegura que el juego funcione exactamente igual en cualquier computador.
+
+En este proyecto, solo necesitas Pygame:
+
+pygame==2.5.2
