@@ -35,15 +35,15 @@ evitando meteoritos, administrando combustible hasta lograr reingresos seguros.
 <!-- Características -->
 <h2 style="font-size:26px;">✨ CARACTERÍSTICAS PRINCIPALES:</h2>
 <ul style="font-size:18px;">
-  <li>🚀 Movimiento del cohete con física simple.</li>
-  <li>⛽ Sistema de combustible.</li>
-  <li>☄️ Meteoritos y ⭐ estrellas recolectables.</li>
-  <li>🪐 8 planetas con texturas y animaciones.</li>
-  <li>⏸️ Pantallas de pausa, nivel completado y game over.</li>
-  <li>💥 Sistema de partículas (propulsión, explosiones).</li>
-  <li>🌌 Nebulosas animadas.</li>
-  <li>🎛 HUD con puntaje, vidas y combustible.</li>
-  <li>⚙️ Optimización con caché de superficies.</li>
+  <li> Movimiento del cohete con física simple.</li>
+  <li> Sistema de combustible.</li>
+  <li> Meteoritos y estrellas recolectables.</li>
+  <li> 8 planetas con texturas y animaciones.</li>
+  <li> Pantallas de pausa, nivel completado y game over.</li>
+  <li> Sistema de partículas (propulsión, explosiones).</li>
+  <li> Nebulosas animadas.</li>
+  <li> HUD con puntaje, vidas y combustible.</li>
+  <li> Optimización con caché de superficies.</li>
 </ul>
 
 <hr>
@@ -118,7 +118,7 @@ python nexus.py
 </ul>
 <hr style="border:0; height:2px; background:#d0d0d0; margin:40px 0;">
 <!-- ESTADOS DEL JUEGO -->
-<h2 style="font-size:26px;">💥 ESTADOS DEL JUEGO:</h2>
+<h2 style="font-size:26px;">🌌 ESTADOS DEL JUEGO:</h2>
 <ul style="font-size:18px; line-height:1.6;">
   <li><strong>MENU</strong> — Pantalla inicial con logo y opciones.</li>
   <li><strong>JUGANDO</strong> — Control del cohete, meteoritos y combustible.</li>
