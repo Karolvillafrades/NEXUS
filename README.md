@@ -9,7 +9,7 @@
 <h1 align="center" style="font-size:32px; margin-top:10px;">PROYECTO FINAL</h1>
 
 <p align="center" style="font-size:18px;">
-  Simulación tipo arcade donde controlas un cohete que debe completar misiones a través de los planetas del sistema solar.
+  Simulación tipo arcade donde se controla un cohete qué debe completar misiones a través de los planetas del sistema solar.
 </p>
 </p>
 
@@ -27,7 +27,7 @@ evitando meteoritos, administrando combustible hasta lograr reingresos seguros.
 <!-- Descripción -->
 <h2 style="font-size:26px;">🛰️ DESCRIPCIÓN DEL PROYECTO:</h2>
 <p style="font-size:18px;">
-<b>NEXUS</b> es un videojuego desarrollado en <b>Python + Pygame</b>. Se trata de completar misiones atravesando los planetas del sistema solar mientras controlas una nave en descenso.
+<b>NEXUS</b> es un videojuego desarrollado en <b>Python + Pygame</b>. Se trata de completar misiones atravesando los planetas del sistema solar, controlando la nave en descenso.
 </p>
 
 <hr>
