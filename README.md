@@ -27,7 +27,7 @@ evitando meteoritos, administrando combustible hasta lograr reingresos seguros.
 <!-- Descripción -->
 <h2 style="font-size:26px;">🛰️ DESCRIPCIÓN DEL PROYECTO:</h2>
 <p style="font-size:18px;">
-<b>NEXUS</b> es un videojuego desarrollado en <b>Python + Pygame</b>. Se trata de completar misiones atravesando los planetas del sistema solar, controlando la nave en descenso.
+<b>NEXUS</b> es un videojuego desarrollado en <b>Python + Pygame</b>. Consiste en completar misiones atravesando los planetas del sistema solar, tratando de controlar la nave en descenso.
 </p>
 
 <hr>
