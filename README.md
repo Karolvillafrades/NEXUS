@@ -140,7 +140,7 @@ python nexus.py
 </ul>
 <hr style="border:0; height:2px; background:#d0d0d0; margin:40px 0;">
 <!-- CRÉDITOS -->
-<h2 style="font-size:26px;">👨‍🚀 CRÉDITOS:</h2>
+<h2 style="font-size:26px;">👩🏽‍🚀👩🏻‍🚀 CRÉDITOS:</h2>
 <p style="font-size:18px; line-height:1.6;">
 <strong>Proyecto desarrollado por:</strong><br>
 - Karol Villafrades Santos.<br>
